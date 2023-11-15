@@ -1,0 +1,49 @@
+.green {
+    padding: 0.5% 0;
+    margin-bottom: 0.5%;
+}
+
+.blue {
+    width: 1000px;
+    box-sizing: border-box;
+}
+
+.blue--nav {
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.blue--spc-btwn {
+    flex-direction: row;
+    padding: 1% 0;
+    column-gap: 1%;
+}
+
+.blue--spc-evn {
+    justify-content: space-evenly;
+    padding: 1% 0;
+
+}
+
+.nav-dropdown {
+    display: none;
+}
+
+.orange--logo {
+    flex-basis: 10%;
+    height: 50px;
+}
+
+.orange--nav-dsktp {
+    flex-basis: 40%;
+    height: 50px;
+}
+
+.orange--dbl {
+    height: 200px;
+}
+
+.orange--trpl {
+    flex-basis: 31%;
+    height: 200px;
+}
